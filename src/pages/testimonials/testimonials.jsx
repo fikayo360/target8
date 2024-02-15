@@ -22,7 +22,7 @@ export function Testimonials(){
             </div>
 
             <div className='testimonial'>
-            
+             
             <div className='testiUp'>
                 <img src='https://i.pinimg.com/280x280_RS/be/70/fe/be70fe7ebde5c89c08e49e34ba5f6cc4.jpg' />
                 <div className='testiUpCol'>
